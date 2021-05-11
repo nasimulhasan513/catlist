@@ -27,7 +27,7 @@ export default {
 
   data() {
     return {
-      users: ["deep", "marina", "sayem"],
+      users: [],
       mode: true,
     };
   },
